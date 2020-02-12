@@ -1,0 +1,3 @@
+[submodule "Json.Localizer"]
+	path = Json.Localizer
+	url = https://github.com/aodpi/Anvyl.JsonLocalizer
