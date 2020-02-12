@@ -1,3 +1,6 @@
 [submodule "Json.Localizer"]
 	path = Json.Localizer
 	url = https://github.com/aodpi/Anvyl.JsonLocalizer
+[submodule "pirple-nodejs"]
+	path = pirple-nodejs
+	url = https://github.com/aodpi/pirple-nodejs
