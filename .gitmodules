@@ -1,6 +1,12 @@
 [submodule "Json.Localizer"]
 	path = Json.Localizer
 	url = https://github.com/aodpi/Anvyl.JsonLocalizer
+        branch = master
 [submodule "pirple-nodejs"]
 	path = pirple-nodejs
 	url = https://github.com/aodpi/pirple-nodejs
+        branch = master
+[submodule "rancher-cluster"]
+	path = rancher-cluster
+	url = https://github.com/aodpi/rancher-cluster
+	branch = master
