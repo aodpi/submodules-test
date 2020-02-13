@@ -1,0 +1,2 @@
+track filter=lfs diff=lfs merge=lfs -text
+Json.Localizer/*.md filter=lfs diff=lfs merge=lfs -text
